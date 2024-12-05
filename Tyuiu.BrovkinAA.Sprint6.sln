@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BrovkinAA.Sprint6.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{CCFA0AFC-3625-4CD5-AA6D-0F7E6B1CB47E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Lib", "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Lib\Tyuiu.BrovkinAA.Sprint6.Task1.V24.Lib.csproj", "{363D5184-2EBF-440C-B588-102166C8B476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Lib", "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Lib\Tyuiu.BrovkinAA.Sprint6.Task1.V24.Lib.csproj", "{363D5184-2EBF-440C-B588-102166C8B476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Test", "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Test\Tyuiu.BrovkinAA.Sprint6.Task1.V24.Test.csproj", "{E0DB3EC3-9080-4F00-960F-3C27EFFFEFB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Test", "Tyuiu.BrovkinAA.Sprint6.Task1.V24.Test\Tyuiu.BrovkinAA.Sprint6.Task1.V24.Test.csproj", "{E0DB3EC3-9080-4F00-960F-3C27EFFFEFB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovkinAA.Sprint6.Task1.V24", "Tyuiu.BrovkinAA.Sprint6.Task1.V24\Tyuiu.BrovkinAA.Sprint6.Task1.V24.csproj", "{4EABC4E1-B9B5-4428-9C08-4A501EABD0FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.BrovkinAA.Sprint6.Task1.V24", "Tyuiu.BrovkinAA.Sprint6.Task1.V24\Tyuiu.BrovkinAA.Sprint6.Task1.V24.csproj", "{4EABC4E1-B9B5-4428-9C08-4A501EABD0FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{77158FDC-9B72-4EED-AA2D-831F60FEBCFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
