@@ -1,4 +1,4 @@
-namespace Tyuiu.BrovkinAA.Sprint6.V30
+namespace Tyuiu.BrovkinAA.Sprint6.Task6.V30
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace Tyuiu.BrovkinAA.Sprint6.V30
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new MainForm());
+            Application.Run(new Form1());
         }
     }
 }

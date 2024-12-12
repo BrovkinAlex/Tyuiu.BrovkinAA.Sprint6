@@ -1,6 +1,6 @@
-﻿namespace Tyuiu.BrovkinAA.Sprint6.V30
+﻿namespace Tyuiu.BrovkinAA.Sprint6.Task6.V30
 {
-    partial class MainForm
+    partial class Form1
     {
         /// <summary>
         ///  Required designer variable.
