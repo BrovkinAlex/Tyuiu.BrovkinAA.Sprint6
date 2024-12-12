@@ -10,6 +10,8 @@ namespace Tyuiu.BrovkinAA.Sprint6.Task6.V30.Test
             DataService ds = new DataService();
             string row = ds.CollectTextFromFile(@"D:\Downloads\InPutDataFileTask6V30.txt");
             string wait = "PAlR qdsTS zgGQ XVZeHq dwMQ";
+
+            Assert.AreEqual(wait, row);
         }
     }
 }

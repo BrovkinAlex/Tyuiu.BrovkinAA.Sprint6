@@ -12,7 +12,7 @@ namespace Tyuiu.BrovkinAA.Sprint6.Task6.V30.Lib
                 string line;
                 while ((line = sr.ReadLine()) != null)
                 {
-                    resString = line.Trim().Split(' ')[3] + " ";
+                    resString += line.Trim().Split(' ')[3] + " ";
                 }
             }
 
